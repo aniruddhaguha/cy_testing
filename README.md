@@ -10,7 +10,7 @@ Here're some of the project's best features:
 *   Script for Appointment page
 
 
-<h2>🛠️ Installation Steps:</h2>
+<h2>Installation Steps:</h2>
 
 <p>1. Clone the repository : git clone https://github.com/yourusername/cypress-project.git</p>
 
@@ -23,7 +23,7 @@ Here're some of the project's best features:
 To run Cypress with the Test Runner (headed mode), use: npx cypress open
 To run Cypress in headless mode, use: npx cypress run
   
-<h2>💻 Built with</h2>
+<h2>Built with</h2>
 
 Technologies used in the project:
 
